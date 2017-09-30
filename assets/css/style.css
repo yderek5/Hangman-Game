@@ -1,0 +1,49 @@
+header {
+height: 150px;
+border: 3px solid white;
+width: 90%;
+font-size: 20px;
+text-align: center;
+margin: 25px auto;
+color: white;
+font-family: monospace;
+}
+.underscore {
+height: 250px;
+border: 3px solid white;
+width: 90%;
+font-size: 100px;
+text-align: center;
+margin: 25px auto;
+color:white;
+font-family: monospace;
+}
+.correctGuess {
+height: 80px;
+border: 3px solid white;
+width: 90%;
+font-size: 80px;
+text-align: center;
+margin: 25px auto;
+color: white;
+font-family: monospace;
+}
+.guessNumber {
+height: 80px;
+width: 90%;
+text-align: right;
+margin: 25px auto;
+color: white;
+}
+.guess-num {
+height: 80px;
+width: 90%;
+text-align: left;
+margin: 25px auto;
+color: white;
+font-family: monospace;
+}
+body {
+background-color: #263238;
+}
+.guessedLetters {}
